@@ -1,0 +1,376 @@
+{
+    "products": [
+    {
+    "id": 1,
+    "title": "Call Of Duty Black OPS",
+    "description": "18 Old Street Miami, OR 97219",
+    "price": 24 ,
+    "discountPercentage": 6 ,
+    "rating": 500,
+    "stock": 3,
+    "brand": "3",
+    "category": "Action",
+    "thumbnail": "https://cdn.dummyjson.com/product-images/1/thumbnail.jpg",
+    "images": [
+    "/assets/images 2/action/81QEJo4AIvL.jpg",
+    "https://cdn.dummyjson.com/product-images/1/2.jpg",
+    "https://cdn.dummyjson.com/product-images/1/3.jpg",
+    "https://cdn.dummyjson.com/product-images/1/4.jpg",
+    "https://cdn.dummyjson.com/product-images/1/thumbnail.jpg"
+    ]
+    },
+    {
+    "id": 2,
+    "title": "DIABLO",
+    "description": "54 New Street Florida, OR 27001",
+    "price": 22,
+    "discountPercentage": 3,
+    "rating": 575,
+    "stock": 1,
+    "brand": "2",
+    "category": "Action",
+    "thumbnail": "https://cdn.dummyjson.com/product-images/2/thumbnail.jpg",
+    "images": [
+    "/assets/images 2/action/images-3.webp",
+    "https://cdn.dummyjson.com/product-images/2/2.jpg",
+    "https://cdn.dummyjson.com/product-images/2/3.jpg",
+    "https://cdn.dummyjson.com/product-images/2/thumbnail.jpg"
+    ]
+    },
+    {
+    "id": 3,
+    "title": "Mortal Kombat 1",
+    "description": "26 Mid Street Portland, OR 38540",
+    "price": 30,
+    "discountPercentage": 4,
+    "rating": 600,
+    "stock": 2,
+    "brand": "5",
+    "category": "Action",
+    "thumbnail": "https://cdn.dummyjson.com/product-images/3/thumbnail.jpg",
+    "images": [
+    "/assets/images 2/action/k1_std_ps5_2d_packshot_es.webp"
+    ]
+    },
+    {
+    "id": 4,
+    "title": "Mortal Kombat 2 ULTIMATE",
+    "description": "12 Hope Street Portland, OR 12650",
+    "price": 35,
+    "discountPercentage": 6,
+    "rating": 650,
+    "stock": 2,
+    "brand": "7",
+    "category": "Action",
+    "thumbnail": "https://cdn.dummyjson.com/product-images/4/thumbnail.jpg",
+    "images": [
+    "/assets/images 2/action/Screenshot_2-5.webp",
+    "https://cdn.dummyjson.com/product-images/4/2.jpg",
+    "https://cdn.dummyjson.com/product-images/4/3.jpg",
+    "https://cdn.dummyjson.com/product-images/4/4.jpg",
+    "https://cdn.dummyjson.com/product-images/4/thumbnail.jpg"
+    ]
+    },
+    {
+    "id": 5,
+    "title": "WARFRAME",
+    "description": "34 Hope Street Portland, OR 42680",
+    "price": 26,
+    "discountPercentage": 5,
+    "rating": 500,
+    "stock": 2,
+    "brand": "6",
+    "category": "Action",
+    "thumbnail": "https://cdn.dummyjson.com/product-images/5/thumbnail.jpg",
+    "images": [
+    "/assets/images 2/action/75707-warframe.jpg",
+    "https://cdn.dummyjson.com/product-images/5/2.jpg",
+    "https://cdn.dummyjson.com/product-images/5/3.jpg"
+    ]
+    },
+    {
+    "id": 6,
+    "title": "PUBG Battleground",
+    "description": "22 Hope Street Portland, OR 16540",
+    "price": 20,
+    "discountPercentage": 4,
+    "rating": 350,
+    "stock": 1,
+    "brand": "5",
+    "category": "Action",
+    "thumbnail": "https://cdn.dummyjson.com/product-images/6/thumbnail.png",
+    "images": [
+    "/assets/images 2/action/71jA11aa56L._AC_UF1000,1000_QL80_DpWeblab_.jpg",
+    "https://cdn.dummyjson.com/product-images/6/2.jpg",
+    "https://cdn.dummyjson.com/product-images/6/3.png",
+    "https://cdn.dummyjson.com/product-images/6/4.jpg"
+    ]
+    },
+    {
+    "id": 7,
+    "title": "ASSASSIN'S CREED MIRAGE",
+    "description": "14 Mid Street Miami, OR 36450",
+    "price": 22,
+    "discountPercentage": 4,
+    "rating": 300,
+    "stock": 2,
+    "brand": "6",
+    "category": "Adventure",
+    "thumbnail": "https://cdn.dummyjson.com/product-images/7/thumbnail.jpg",
+    "images": [
+    "/assets/images 2/adventure/1238606_R_SET.jpg",
+    "https://cdn.dummyjson.com/product-images/7/2.jpg",
+    "https://cdn.dummyjson.com/product-images/7/3.jpg",
+    "https://cdn.dummyjson.com/product-images/7/thumbnail.jpg"
+    ]
+    },
+    {
+    "id": 8,
+    "title": "AVATAR FRONTIERS OF PANDORA",
+    "description": "26 Old Street Miami, OR 12870",
+    "price": 22,
+    "discountPercentage": 6,
+    "rating": 650,
+    "stock": 3,
+    "brand": "8",
+    "category": "Adventure",
+    "thumbnail": "https://cdn.dummyjson.com/product-images/8/thumbnail.jpg",
+    "images": [
+    "/assets/images 2/adventure/6548130_sd.jpg",
+    "https://cdn.dummyjson.com/product-images/8/2.jpg",
+    "https://cdn.dummyjson.com/product-images/8/3.jpg",
+    "https://cdn.dummyjson.com/product-images/8/4.jpg",
+    "https://cdn.dummyjson.com/product-images/8/thumbnail.jpg"
+    ]
+    },
+    {
+    "id": 9,
+    "title": "Spider Man Miles Morales",
+    "description": "34 New Street Miami, OR 24650",
+    "price": 20,
+    "discountPercentage": 4,
+    "rating": 350,
+    "stock": 2,
+    "brand": "5",
+    "category": "Adventure",
+    "thumbnail": "https://cdn.dummyjson.com/product-images/9/thumbnail.jpg",
+    "images": [
+    "/assets/images 2/adventure/Screenshot_1-67.webp",
+    "https://cdn.dummyjson.com/product-images/9/2.png",
+    "https://cdn.dummyjson.com/product-images/9/3.png",
+    "https://cdn.dummyjson.com/product-images/9/4.jpg",
+    "https://cdn.dummyjson.com/product-images/9/thumbnail.jpg"
+    ]
+    },
+    {
+    "id": 10,
+    "title": "GOD OF WAR RAGNAROK",
+    "description": "35 Hope Street Portland, OR 42680",
+    "price": 18,
+    "discountPercentage": 6,
+    "rating": 400,
+    "stock": 2,
+    "brand": "5",
+    "category": "Adventure",
+    "thumbnail": "https://cdn.dummyjson.com/product-images/10/thumbnail.jpeg",
+    "images": [
+    "/assets/images 2/adventure/categories-07.jpg",
+    "https://cdn.dummyjson.com/product-images/10/2.jpg",
+    "https://cdn.dummyjson.com/product-images/10/3.jpg",
+    "https://cdn.dummyjson.com/product-images/10/thumbnail.jpeg"
+    ]
+    },
+    {
+    "id": 11,
+    "title": "GOD OF WAR 2 ",
+    "description": "10 Hope Street Portland, OR 12650",
+    "price": 26 ,
+    "discountPercentage": 4 ,
+    "rating": 300 ,
+    "stock": 2,
+    "brand": "4",
+    "category": "Adventure",
+    "thumbnail": "https://cdn.dummyjson.com/product-images/11/thumbnail.jpg",
+    "images": [
+    "/assets/images 2/adventure/35764.webp",
+    "https://cdn.dummyjson.com/product-images/11/2.jpg",
+    "https://cdn.dummyjson.com/product-images/11/3.jpg",
+    "https://cdn.dummyjson.com/product-images/11/thumbnail.jpg"
+    ]
+    },
+    {
+    "id": 12,
+    "title": "FIFA 2023",
+    "description": "26 Mid Street Portland, OR 38540",
+    "price": 24,
+    "discountPercentage": 4,
+    "rating": 500,
+    "stock": 3,
+    "brand": "5",
+    "category": "Sport",
+    "thumbnail": "https://cdn.dummyjson.com/product-images/12/thumbnail.jpg",
+    "images": [
+    "/assets/images 2/sport/01g8av5s8m4g8g0dr6we.webp",
+    "https://cdn.dummyjson.com/product-images/12/2.jpg",
+    "https://cdn.dummyjson.com/product-images/12/3.png",
+    "https://cdn.dummyjson.com/product-images/12/4.jpg",
+    "https://cdn.dummyjson.com/product-images/12/thumbnail.jpg"
+    ]
+    },
+    {
+    "id": 13,
+    "title": "FIFA 2024",
+    "description": "56 New Street Florida, OR 27001",
+    "price": 30,
+    "discountPercentage": 6,
+    "rating": 600,
+    "stock": 3,
+    "brand": "8",
+    "category": "Sport",
+    "thumbnail": "https://cdn.dummyjson.com/product-images/13/thumbnail.webp",
+    "images": [
+    "/assets/images 2/sport/81PX1wwqq9L._AC_UF894_1000_QL80.jpg",
+    "https://cdn.dummyjson.com/product-images/13/2.png",
+    "https://cdn.dummyjson.com/product-images/13/3.jpg",
+    "https://cdn.dummyjson.com/product-images/13/4.jpg",
+    "https://cdn.dummyjson.com/product-images/13/thumbnail.webp"
+    ]
+    },
+    {
+    "id": 14,
+    "title": "PES 24 eFOOTBALL",
+    "description": "20 New Street Miami, OR 97219",
+    "price": 18,
+    "discountPercentage": 2,
+    "rating": 420,
+    "stock": 2,
+    "brand": "6",
+    "category": "Sport",
+    "thumbnail": "https://cdn.dummyjson.com/product-images/14/thumbnail.jpg",
+    "images": [
+    "/assets/images 2/sport/pes_2024___e_football_2024_icon_by_xenil3131_dg8ilie-375w-2x.png",
+    "https://cdn.dummyjson.com/product-images/14/2.jpg",
+    "https://cdn.dummyjson.com/product-images/14/3.jpg",
+    "https://cdn.dummyjson.com/product-images/14/thumbnail.jpg"
+    ]
+    },
+    {
+    "id": 15,
+    "title": "NBA 2K23",
+    "description": "30 Hope Street Portland, OR 16540",
+    "price": 20,
+    "discountPercentage": 5,
+    "rating": 500,
+    "stock": 2,
+    "brand": "5",
+    "category": "Sport",
+    "thumbnail": "https://cdn.dummyjson.com/product-images/15/thumbnail.jpg",
+    "images": [
+    "/assets/images 2/sport/Screenshot_1-9.webp",
+    "https://cdn.dummyjson.com/product-images/15/2.jpg",
+    "https://cdn.dummyjson.com/product-images/15/3.jpg",
+    "https://cdn.dummyjson.com/product-images/15/4.jpg",
+    "https://cdn.dummyjson.com/product-images/15/thumbnail.jpg"
+    ]
+    },
+    {
+        "id": 16,
+        "title": "MATCH POINT TENNIS",
+        "description": "30 Hope Street Portland, OR 16540",
+        "price": 20,
+        "discountPercentage": 5,
+        "rating": 500,
+        "stock": 2,
+        "brand": "5",
+        "category": "Sport",
+        "thumbnail": "https://cdn.dummyjson.com/product-images/15/thumbnail.jpg",
+        "images": [
+        "/assets/images 2/sport/Matchpoint---PlayStation-5.jpeg",
+        "https://cdn.dummyjson.com/product-images/15/2.jpg",
+        "https://cdn.dummyjson.com/product-images/15/3.jpg",
+        "https://cdn.dummyjson.com/product-images/15/4.jpg",
+        "https://cdn.dummyjson.com/product-images/15/thumbnail.jpg"
+        ]
+    },
+    {
+        "id": 17,
+        "title": "Need For Speed Payback",
+        "description": "30 Hope Street Portland, OR 16540",
+        "price": 25,
+        "discountPercentage": 5,
+        "rating": 500,
+        "stock": 2,
+        "brand": "5",
+        "category": "Race",
+        "thumbnail": "https://cdn.dummyjson.com/product-images/15/thumbnail.jpg",
+        "images": [
+        "/assets/images 2/race/1.webp",
+        "https://cdn.dummyjson.com/product-images/15/2.jpg",
+        "https://cdn.dummyjson.com/product-images/15/3.jpg",
+        "https://cdn.dummyjson.com/product-images/15/4.jpg",
+        "https://cdn.dummyjson.com/product-images/15/thumbnail.jpg"
+        ]
+    },
+    {
+        "id": 18,
+        "title": "Project Cars",
+        "description": "30 Hope Street Portland, OR 16540",
+        "price": 22,
+        "discountPercentage": 5,
+        "rating": 500,
+        "stock": 2,
+        "brand": "5",
+        "category": "Race",
+        "thumbnail": "https://cdn.dummyjson.com/product-images/15/thumbnail.jpg",
+        "images": [
+        "/assets/images 2/race/81EXpgvaRXS._SL1500_.webp",
+        "https://cdn.dummyjson.com/product-images/15/2.jpg",
+        "https://cdn.dummyjson.com/product-images/15/3.jpg",
+        "https://cdn.dummyjson.com/product-images/15/4.jpg",
+        "https://cdn.dummyjson.com/product-images/15/thumbnail.jpg"
+        ]
+    },
+    {
+        "id": 19,
+        "title": "Need For Speed Rivals",
+        "description": "30 Hope Street Portland, OR 16540",
+        "price": 24,
+        "discountPercentage": 5,
+        "rating": 500,
+        "stock": 2,
+        "brand": "5",
+        "category": "Race",
+        "thumbnail": "https://cdn.dummyjson.com/product-images/15/thumbnail.jpg",
+        "images": [
+        "/assets/images 2/race/Need-For-Speed_-Rivals-PS4-700x700h.jpg.webp",
+        "https://cdn.dummyjson.com/product-images/15/2.jpg",
+        "https://cdn.dummyjson.com/product-images/15/3.jpg",
+        "https://cdn.dummyjson.com/product-images/15/4.jpg",
+        "https://cdn.dummyjson.com/product-images/15/thumbnail.jpg"
+        ]
+    },
+    {
+        "id": 20,
+        "title": "BURNOUT Paradise",
+        "description": "30 Hope Street Portland, OR 16540",
+        "price": 22,
+        "discountPercentage": 5,
+        "rating": 500,
+        "stock": 2,
+        "brand": "5",
+        "category": "Race",
+        "thumbnail": "https://cdn.dummyjson.com/product-images/15/thumbnail.jpg",
+        "images": [
+        "/assets/images 2/race/51W89TlqEfL.webp",
+        "https://cdn.dummyjson.com/product-images/15/2.jpg",
+        "https://cdn.dummyjson.com/product-images/15/3.jpg",
+        "https://cdn.dummyjson.com/product-images/15/4.jpg",
+        "https://cdn.dummyjson.com/product-images/15/thumbnail.jpg"
+        ]
+    }
+
+    ],
+    "total": 100,
+    "skip": 0,
+    "limit": 30
+    }
